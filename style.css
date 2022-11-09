@@ -3,6 +3,6 @@ h1{text-align: center;background-color: black;color: black;}
 b3{text-align: justify;color: aliceblue;}
 b{color: black;font-size: 18px;}
 i{color: aqua;font-size: 18px;}
-header,footer{background-color: aliceblue;color: blue;text-align: center;font: optional:20px}
+header,footer{background-color: aliceblue;color: blue;text-align: center;font: optional 20px}
 main{background-color: blue;}
-primeiroparagrafo{text-align: justify;font: ;}
+primeiroparagrafo{text-align: justify;font:}
